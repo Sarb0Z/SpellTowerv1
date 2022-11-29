@@ -21,7 +21,9 @@ public:
 	~Dictionary();
 	void addWord(std::string word);
 	std::string getWord();
-	void generateWordSalad(std::string word, char salad[16]);
+	std::string generateWordSalad(std::string word);//this function takes the word and returns 
+	//a word salad of length 16 with all the letters of that word in random order
+	//the word must be less than 16 letters long
 
 
 

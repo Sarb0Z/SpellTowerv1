@@ -31,7 +31,7 @@ Dictionary::~Dictionary()
 
 void Dictionary::addWord(std::string word)
 {
-
+	dictionary.push_back(word);
 }
 
 std::string Dictionary::getWord()
@@ -41,28 +41,45 @@ std::string Dictionary::getWord()
 	return dictionary[wordIndex];
 }
 
-void Dictionary::generateWordSalad(std::string word, char salad[16])
+std::string Dictionary::generateWordSalad(std::string word)
 {
+	int wordSize = word.size();
+	if (wordSize > 16) {
+		return word;
+	}
+
+	std::string wordSalad = "1234567812345678";
 	int count = 0;
 	int wordIndex = 0;
 	bool saladFilled[16];
-	int wordSize = word.size();
 	int gVal;
+
 	std::fill_n(saladFilled, 16, false);
 
 	srand(time(NULL));
-	
+
 	while (count < 16) {
-		if (wordIndex <  wordSize){
-			gVal = rand() % 16;
+		gVal = rand() % 16;
+		if (wordIndex < wordSize) {
 			if (saladFilled[gVal] == false) {
-				salad[gVal] = word[wordIndex];
+				wordSalad[gVal] = word[wordIndex];
 				wordIndex++;
 				saladFilled[gVal] = true;
 				count++;
 			}
 		}
+		else {
+			if (saladFilled[gVal] == false) {
+				wordSalad[gVal] = alphabet[rand() % 26];
+				saladFilled[gVal] = true;
+				count++;
+			}
+		}
 	}
-
-
+	
+	return wordSalad;
 }
+//test cases
+//std::cout<<generateWordSalad("chocolate");
+//std::cout<<generateWordSalad("banana");
+//and so on
