@@ -18,8 +18,8 @@ UDictionary::UDictionary()
 
 	//alphabet
 	char letter = 'a';
-	int i = 0;
-	for (i; i < 26; i++) {
+	
+	for (int i = 0; i < 26; i++) {
 		alphabet[i] = letter;
 		letter++;
 	}
