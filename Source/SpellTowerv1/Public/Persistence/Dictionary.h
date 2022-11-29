@@ -4,24 +4,32 @@
 
 #include "CoreMinimal.h"
 
+
 #include <vector>
 #include <string>
 
+#include "Dictionary.generated.h"//this must be always the last include
 /**
  * 
  */
-class SPELLTOWERV1_API Dictionary
+
+UCLASS(Blueprintable, BlueprintType)
+class SPELLTOWERV1_API UDictionary: public UObject
 {
+	GENERATED_BODY()
 private:
 	std::vector<std::string> dictionary;
 	char alphabet[26];
 
 public:
-	Dictionary();
-	~Dictionary();
-	void addWord(std::string word);
-	std::string getWord();
-	std::string generateWordSalad(std::string word);//this function takes the word and returns 
+	UDictionary();
+	~UDictionary();
+	UFUNCTION(BlueprintCallable, Category = "Function")
+		void addWord(FString FWord);
+	UFUNCTION(BlueprintCallable, Category = "Function")
+		FString getWord();
+	UFUNCTION(BlueprintCallable, Category = "Function")
+		FString generateWordSalad(FString FWord);//this function takes the word and returns 
 	//a word salad of length 16 with all the letters of that word in random order
 	//the word must be less than 16 letters long
 

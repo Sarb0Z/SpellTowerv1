@@ -7,7 +7,7 @@
 #include <time.h>
 #include <algorithm>
 */
-Dictionary::Dictionary()
+UDictionary::UDictionary()
 {
 	//create default word bank
 	dictionary.push_back("home");
@@ -25,27 +25,30 @@ Dictionary::Dictionary()
 	}
 }
 
-Dictionary::~Dictionary()
+UDictionary::~UDictionary()
 {
 }
 
-void Dictionary::addWord(std::string word)
+void UDictionary::addWord(FString FWord)
 {
-	dictionary.push_back(word);
+	dictionary.push_back(TCHAR_TO_UTF8(&FWord));
 }
 
-std::string Dictionary::getWord()
+FString UDictionary::getWord()
 {
 	srand(time(NULL));
 	int wordIndex = rand() % dictionary.size();
-	return dictionary[wordIndex];
+
+	FString wordFStr(dictionary[wordIndex].c_str());
+	return wordFStr; ;
 }
 
-std::string Dictionary::generateWordSalad(std::string word)
+FString UDictionary::generateWordSalad(FString FWord)
 {
+	std::string const word = TCHAR_TO_UTF8(&FWord);
 	int wordSize = word.size();
 	if (wordSize > 16) {
-		return word;
+		return FWord;
 	}
 
 	std::string wordSalad = "1234567812345678";
@@ -76,8 +79,8 @@ std::string Dictionary::generateWordSalad(std::string word)
 			}
 		}
 	}
-	
-	return wordSalad;
+	FString wordSaladFStr(wordSalad.c_str());
+	return wordSaladFStr;
 }
 //test cases
 //std::cout<<generateWordSalad("chocolate");
