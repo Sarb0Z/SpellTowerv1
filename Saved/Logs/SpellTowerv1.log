@@ -1213,3 +1213,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.30-17.21.18:609][232]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.30-17.21.18:609][232]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level2_BuiltData.Level2_BuiltData
 [2022.11.30-17.21.18:609][232]LogContentValidation: Display: Validating World /Game/Levels/Level2.Level2
+[2022.11.30-17.26.02:853][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2" FILE="D:/SpellTowerv1/Content/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-17.26.02:924][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.30-17.26.02:941][811]LogSavePackage: Moving 'D:/SpellTowerv1/Saved/Level2F327B5C843C5861FD66625A21952700C.tmp' to 'D:/SpellTowerv1/Content/Levels/Level2.umap'
+[2022.11.30-17.26.02:994][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2_BuiltData" FILE="D:/SpellTowerv1/Content/Levels/Level2_BuiltData.uasset" SILENT=true
+[2022.11.30-17.26.02:995][811]LogSavePackage: Moving 'D:/SpellTowerv1/Saved/Level2_BuiltData7354DCF44E8B3195DEDFD1A9BA40B347.tmp' to 'D:/SpellTowerv1/Content/Levels/Level2_BuiltData.uasset'
+[2022.11.30-17.26.03:000][811]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.30-17.26.03:000][811]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level2_BuiltData.Level2_BuiltData
+[2022.11.30-17.26.03:000][811]LogContentValidation: Display: Validating World /Game/Levels/Level2.Level2
+[2022.11.30-17.32.34:571][705]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.30-17.32.41:094][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2" FILE="D:/SpellTowerv1/Content/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-17.32.41:126][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.30-17.32.41:147][396]LogSavePackage: Moving 'D:/SpellTowerv1/Saved/Level205E018B941DC40EDEE08CE9A4C337277.tmp' to 'D:/SpellTowerv1/Content/Levels/Level2.umap'
+[2022.11.30-17.32.41:203][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2_BuiltData" FILE="D:/SpellTowerv1/Content/Levels/Level2_BuiltData.uasset" SILENT=true
+[2022.11.30-17.32.41:204][396]LogSavePackage: Moving 'D:/SpellTowerv1/Saved/Level2_BuiltData6B06CD0E439E3E5812C3D781672866FB.tmp' to 'D:/SpellTowerv1/Content/Levels/Level2_BuiltData.uasset'
+[2022.11.30-17.32.41:209][396]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.30-17.32.41:209][396]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level2_BuiltData.Level2_BuiltData
+[2022.11.30-17.32.41:209][396]LogContentValidation: Display: Validating World /Game/Levels/Level2.Level2
