@@ -1,4 +1,8 @@
-Binaries
+
 DerivedDataCache
 Intermediate
 .vs
+*.arm
+*.aab
+*.so
+*.apk
