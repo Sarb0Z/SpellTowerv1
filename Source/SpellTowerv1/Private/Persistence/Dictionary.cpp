@@ -15,7 +15,15 @@ UDictionary::UDictionary()
 	dictionary.push_back("pineapple");
 	dictionary.push_back("desert");
 	dictionary.push_back("mercury");
-
+	dictionary.push_back("potato");
+	dictionary.push_back("sauce");
+	dictionary.push_back("trivial");
+	dictionary.push_back("blueberry");
+	dictionary.push_back("castle");
+	dictionary.push_back("spain");
+	dictionary.push_back("holocaust");
+	dictionary.push_back("pencil");
+	dictionary.push_back("happiness");
 	//alphabet
 	char letter = 'a';
 	
@@ -86,3 +94,13 @@ FString UDictionary::generateWordSalad(FString FWord)
 //std::cout<<generateWordSalad("chocolate");
 //std::cout<<generateWordSalad("banana");
 //and so on
+
+bool UDictionary::isInWord(FString FWord, FString FLetter) {
+	if (FLetter.Len() > 1) {
+		return false;
+	}
+	if (FWord.Contains(FLetter)) {
+		return true;
+	}
+	return false;
+}

@@ -32,7 +32,9 @@ public:
 		FString generateWordSalad(FString FWord);//this function takes the word and returns 
 	//a word salad of length 16 with all the letters of that word in random order
 	//the word must be less than 16 letters long
-
+	UFUNCTION(BlueprintCallable, Category = "Function")
+		bool isInWord(FString FWord, FString FLetter);
+	//the function returns false if you pass it a string of letters for fletter
 
 
 
