@@ -1,0 +1,601 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "7A9ECA88E4F0A95894E09B67DA9D9591BC8F4CDF",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CDA74CA02F0A963B972789442F9B318C38EE96C6",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DF56A3FFD02BA9675F73A476DB83DB41B61B3DAB",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "9152F3D11367A6F9E1FE9AC8BE50CEE249A91787",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DF87986FAFB6CCE84B4E1E1B9B070F34C88AEB30",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "320454A7D70B863835243F4FF5922A965F46A690",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2469749773EDFB29224F4649892F0D848CA141B3",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4E055E4291D995DEF7E750E4610D9B2B629E54AF",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "28FDCE0073E9904413A32E7BB231337B21B2F0AA",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "219F4922F346C01123B9E353438D5985C53DB0F3",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "C294D1996353B1BAA661D7B5D8AEFB2707386B40",
+			"Assets": [
+				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "C61696857E10855A032394C2CF60B4BA9DEFC598",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "85EFD32AE50BD2108F31B6B0CEA1D7CA9AA1FD69",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "5AC54DEE41BCE0A0995ADB66753FDE2522715A05",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "1D51568A8C1D3C14B681D188444A9F81BDF5BAD3",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB52D6E2266F1439F8687DF6DFF8EBBE3A3E42F",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "F90DA707433DE4EF02B65DAF4C5C55159F9311CF",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8FD4BC615AF97DA7DF4C7085FB61AA437E8AB74F",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "90F702125098C1E01F7C9423923A1DD4A1B5DDCC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BA88B28763C50CFA0866CF3F44509C1E45927D32",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5FBD07E26939EF1086B667034673FF7716467604",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D1431AC349F5189573050E90E95BC720A550BC8D",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "11402DB98CD62149D5DAF36D4A81F67EC37D5134",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "E2AC823CB46FAD6E235AEDAB805A47467F370E95",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1CB1FF0CBA4AEF75A7F294E75E52B351AA41026",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "460C2AB04B751475853195C51BB50DDC58076DA6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "63D5BCF9B9A395F67950A64DE46D5103F68C7D48",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "345034E143E7D449B27BFB641A6C7352331A0827",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "97FF335266756EF55565C37BAAD4B2FAD23A4726",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "3888299D4E84E2C4C01E8BF0C98A5EBA1753725A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "6C51B272B7C9E02BAE2EE0CFEE51211332245DAF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "AC67FF8FE0BD62FA7528482A4962792B37DB65A0",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "C7879EBB62EFE553A5D13E47F2E31407FE1ADF88",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "D2564B7A68761245A42F3DBE6A5CAC810EF71B0A",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "143C55249E58909DFD2758B9BA89EB97B3F3843E",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "2C7361E8DE55699536709674ADEB76B019D3752A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "692D0A5371EE70958EBB9F3DD7CB503107D35571",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0F5CC16646EB41F37C1520FD902BBE049EECF131",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A27C9A7B5E9948857D7E263D8E3EF3B2A4142E94",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BDB2DF26A69FFD94ADDEBE2794C1EE9CA0B8D7CF",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "CD906AA40F0B20C214FE9E83D2F11E5BE0044A41",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "19DE0EC779EB8F41E9A56E8D1206E371C6753A48",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "2467AB056E27573FC894B4646E9457E4A57A4838",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "845D878EB1685DF22BC8CE83EC318A67E17A0A3B",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Basic_Wall",
+				"/Game/MobileStarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "74917511703B31BDF2A2799D8A9978579D606DED",
+			"Assets": [
+				"/Game/MobileStarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "6CAA2153E7A967C4DC76D31340A10EEAB94A1D3D",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "1125C04FC3F1AF6AFFB23F5502ED55600B51E040",
+			"Assets": [
+				"/Game/MobileStarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "B55D0410C32A7CDC5550AC544A063D8FF9338E6A",
+			"Assets": [
+				"/Game/MobileStarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "43AB1503AC22655E72564958A486C0EF612A83CC",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Wood_Walnut",
+				"/Game/MobileStarterContent/Materials/M_Wood_Pine",
+				"/Game/MobileStarterContent/Materials/M_Rock_Basalt",
+				"/Game/MobileStarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
+			"ShaderMapHash": "7CA2D151555583D2AC0CE9DBC7D7E5D8DDE15B2D",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Wood_Oak",
+				"/Game/MobileStarterContent/Materials/M_Rock_Slate",
+				"/Game/MobileStarterContent/Materials/M_Brick_Cut_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "D1E44499CDD7C5BEFA6DC6AF6699A7139D65AB6D",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "B38D56A6482F55EA1D8089ADE65F3044BC749CFC",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "0EA3D297EE89E2D5D6CE0232C32904B8FAAACC5B",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "76E362A3B3F7A8B6C7C1286ECAF24031364F5DEF",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "76A00172FD3E725849C020AB75458EC97205BF44",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Tech_Panel"
+			]
+		},
+		{
+			"ShaderMapHash": "88BDEAB77B0934DB31E93593248EB86A1472B347",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "03E05C8C029D78EDA1E044A875B7B2212803BE1C",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Tech_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "E27B917E34DBF455DBAC5561BECC3EB4ADF82D54",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "5A4F513C7A628ACFFB7281D10711B039C5D1F73B",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "65FB4285ACF85C5F9758079D04D5386F43B82C81",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "329BBB1041D3A2306A38D93E4C6B71443D99A238",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "7319A6E4A4892C00497F103795DD330F5FADC3AA",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "C4C06FAB107386B5559632289065DDCFB18C8C56",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "C0DA55B15181B88369D7B0FAA4C0862EE46BE96B",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "FCECA0CA880D2362F74D5156666C4341EC762534",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "594350C94D0B3F3585592327FCA6680290C260C0",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "35DBDA7BB0ED7E0EF69B113585C3B1D3CD022A28",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "513358F10709F1F3D6A0773DCF5EE6C994780F35",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Ground_Moss",
+				"/Game/MobileStarterContent/Materials/M_Ground_Gravel",
+				"/Game/MobileStarterContent/Materials/M_Concrete_Grime",
+				"/Game/MobileStarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "C86451AF2073E56A5D1DB03CFCD9154C9B828A38",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "8D58F0A31CE09F58413AF9AFEB96E37E01962F33",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Concrete_Poured"
+			]
+		},
+		{
+			"ShaderMapHash": "9B966F2969A298A01BBE8C916E951DF6805FED44",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "50FD88612314D176B767335686B4607DBEC427E4",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "2D803414E69A32D2864BCE2FD1D3120242859EE6",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_CobbleStone_Pebble"
+			]
+		},
+		{
+			"ShaderMapHash": "1B29D8089811F78B5FC6B052ED044D7275B95F42",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "1F7BFF918747402D7B3F339AFA6A9D16A9C274F4",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Brick_Hewn_Stone",
+				"/Game/MobileStarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "EB89E48BD1B72FAB39618354F4C6F0C7CB65E12D",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "3A5C34B75A26EEAF1DE81007D6979996417BC692",
+			"Assets": [
+				"/Game/MobileStarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "6C83B1C58E02FCAFA5F706CA7E86A63E5DCADE8A",
+			"Assets": [
+				"/Game/MobileStarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "1093F5818CDA6395CF84F69152CBC3AFE082B4CF",
+			"Assets": [
+				"/Game/MobileStarterContent/Props/Materials/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "EBF92083433656F1B5865CA12FDB559C7B57DB5B",
+			"Assets": [
+				"/Game/MobileStarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "E15C412B4B92C5CC9799B1BBA12A78E7FE985516",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "F5FDFA95420F49D37E91166E183CC91281C0A881",
+			"Assets": [
+				"/Game/MobileStarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "B655EF24FCDB646EB615D64CE4BDAF2AFDFDB961",
+			"Assets": [
+				"/Game/MobileStarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "06CA10579A4DD59ECD5E7C565689566829CED42E",
+			"Assets": [
+				"/Game/MobileStarterContent/Particles/Materials/M_Radial_Gradient",
+				"/Game/MobileStarterContent/Particles/Materials/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "9377080B49225C1DAC896EF7F42AA931C63D49EC",
+			"Assets": [
+				"/Game/MobileStarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "0C40503EE10F85287804E1EEE2CD48F316659CFE",
+			"Assets": [
+				"/Game/MobileStarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "128E150BE2824DE9DD83FC9E13D1E5896C4B3BC6",
+			"Assets": [
+				"/Game/MobileStarterContent/Props/Materials/M_Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "8127B5A4555B95A4B309007B66179C35E7A2274B",
+			"Assets": [
+				"/Game/MobileStarterContent/Props/Materials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "EB434E60810BEA273D4ACB799FE5A258F25FF0B5",
+			"Assets": [
+				"/Game/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain"
+			]
+		},
+		{
+			"ShaderMapHash": "F937733B175BCAE49B8A1EA0D95FA322BB0A1015",
+			"Assets": [
+				"/Game/MobileStarterContent/Props/Materials/M_MaterialSphere"
+			]
+		},
+		{
+			"ShaderMapHash": "C41564B0E946ACBB29F32BDB12651875A83E31FC",
+			"Assets": [
+				"/Game/MobileStarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "0E357FAEDFACD190062120F0820502347ADC7AE8",
+			"Assets": [
+				"/Game/MobileStarterContent/Props/Materials/M_Bush"
+			]
+		},
+		{
+			"ShaderMapHash": "A4FFB8F96D50AB9654FD7CB61B400D29B4A79995",
+			"Assets": [
+				"/Game/MobileStarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "731E1B82FEF3873D80F60D91DC8261603814C635",
+			"Assets": [
+				"/Game/MobileStarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "38236A07BC3BAA32A4E46AEE5576C6F3EB9FF580",
+			"Assets": [
+				"/Game/MobileStarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "9AB0A01BC7D723AE19CC2DB5E3A9878DFC413C3F",
+			"Assets": [
+				"/Game/2DSideScroller/Materials/PrototypingSpriteMaterial"
+			]
+		}
+	]
+}
