@@ -538,6 +538,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "50633E5CD9B2D8CEF274E5C832E3D511DE8C6612",
+			"Assets": [
+				"/Paper2D/TranslucentUnlitSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "128E150BE2824DE9DD83FC9E13D1E5896C4B3BC6",
 			"Assets": [
 				"/Game/MobileStarterContent/Props/Materials/M_Shelf"
@@ -589,12 +595,6 @@
 			"ShaderMapHash": "38236A07BC3BAA32A4E46AEE5576C6F3EB9FF580",
 			"Assets": [
 				"/Game/MobileStarterContent/Particles/Materials/M_Burst"
-			]
-		},
-		{
-			"ShaderMapHash": "50633E5CD9B2D8CEF274E5C832E3D511DE8C6612",
-			"Assets": [
-				"/Paper2D/TranslucentUnlitSpriteMaterial"
 			]
 		},
 		{

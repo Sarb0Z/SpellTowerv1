@@ -1,7 +1,6 @@
 Binaries
 DerivedDataCache
 Intermediate
-Binaries
 Saved
 .vscode
 .vs
@@ -13,7 +12,3 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-*.arm
-*.aab
-*.so
-*.apk
