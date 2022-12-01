@@ -592,6 +592,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "50633E5CD9B2D8CEF274E5C832E3D511DE8C6612",
+			"Assets": [
+				"/Paper2D/TranslucentUnlitSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "9AB0A01BC7D723AE19CC2DB5E3A9878DFC413C3F",
 			"Assets": [
 				"/Game/2DSideScroller/Materials/PrototypingSpriteMaterial"
