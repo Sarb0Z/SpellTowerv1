@@ -1,0 +1,1735 @@
+﻿Log file open, 12/05/22 15:23:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SpellTowerv1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.159404
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i5-12400F, GPU: NVIDIA GeForce RTX 3050
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  /Game/Levels/Menu -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=D:/SpellTowerv1/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -featureleveles31 -faketouches -MultiprocessSaveConfig -windowed -WinX=0 -WinY=24 SAVEWINPOS=1 -ResX=1356 -ResY=734
+LogInit: Base Directory: C:/Program Files/EpicGames/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/SpellTowerv1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/SpellTowerv1/Saved/Config/Windows/Engine.ini]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.VT.EnableAutoImport:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[vr.VRS.HMDFixedFoveationLevel:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.12.05-10.23.12:219][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[r.Mobile.SupportsGen4TAA:0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/SpellTowerv1/Saved/Config/Windows/Engine.ini]
+[2022.12.05-10.23.12:220][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/SpellTowerv1/Saved/Config/Windows/Engine.ini]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/SpellTowerv1/Saved/Config/Windows/Engine.ini]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.05-10.23.12:220][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/SpellTowerv1/Saved/Config/Windows/Engine.ini]
+[2022.12.05-10.23.12:220][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/SpellTowerv1/Saved/Config/Windows/Engine.ini]
+[2022.12.05-10.23.12:224][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:224][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.05-10.23.12:224][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.05-10.23.12:224][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.05-10.23.12:225][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.05-10.23.12:225][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.05-10.23.12:225][  0]LogHAL: Display: Platform has ~ 16 GB [17010110464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.05-10.23.12:225][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.05-10.23.12:225][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.05-10.23.12:225][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/SpellTowerv1/Saved/Config/Windows/Scalability.ini]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.05-10.23.12:226][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/SpellTowerv1/Saved/Config/Windows/Engine.ini]
+[2022.12.05-10.23.12:226][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/SpellTowerv1/Saved/Config/Windows/Editor.ini]
+[2022.12.05-10.23.12:226][  0]LogInit: Computer: DESKTOP-T4VHBKV
+[2022.12.05-10.23.12:226][  0]LogInit: User: sarvz
+[2022.12.05-10.23.12:226][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.12.05-10.23.12:226][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.05-10.23.12:226][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.12.05-10.23.12:226][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.05-10.23.12:226][  0]LogMemory: Process Physical Memory: 143.76 MB used, 143.77 MB peak
+[2022.12.05-10.23.12:226][  0]LogMemory: Process Virtual Memory: 115.56 MB used, 115.56 MB peak
+[2022.12.05-10.23.12:226][  0]LogMemory: Physical Memory: 5027.11 MB used,  11194.99 MB free, 16222.11 MB total
+[2022.12.05-10.23.12:226][  0]LogMemory: Virtual Memory: 134204472.00 MB used,  13257.39 MB free, 134217728.00 MB total
+[2022.12.05-10.23.12:229][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.05-10.23.12:249][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.05-10.23.12:250][  0]LogInit: Using OS detected language (en-US).
+[2022.12.05-10.23.12:250][  0]LogInit: Using OS detected locale (en-US).
+[2022.12.05-10.23.12:251][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.12.05-10.23.12:374][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.05-10.23.12:386][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.05-10.23.12:386][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.05-10.23.12:392][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.05-10.23.12:394][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.05-10.23.12:394][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.05-10.23.12:394][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.05-10.23.12:394][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.05-10.23.12:451][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050' (Feature Level 11_0)
+[2022.12.05-10.23.12:451][  0]LogD3D11RHI:       8070/0/8111 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.12.05-10.23.12:452][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.05-10.23.12:452][  0]LogD3D11RHI:       0/0/8111 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.05-10.23.12:452][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.05-10.23.12:452][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050
+[2022.12.05-10.23.12:452][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.05-10.23.12:452][  0]LogD3D11RHI:     DeviceId    : 2507
+[2022.12.05-10.23.12:452][  0]LogD3D11RHI:     SubSysId    : 163d10de
+[2022.12.05-10.23.12:452][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.05-10.23.12:452][  0]LogD3D11RHI:     DedicatedVideoMemory : 8462008320 bytes
+[2022.12.05-10.23.12:452][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.05-10.23.12:452][  0]LogD3D11RHI:     SharedSystemMemory : 8505055232 bytes
+[2022.12.05-10.23.12:452][  0]LogD3D11RHI:     AdapterLuid : 0 49912
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:     GPU DeviceId: 0x2507 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.05-10.23.12:455][  0]LogWindows: EnumDisplayDevices:
+[2022.12.05-10.23.12:455][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3050' (P:1 D:1)
+[2022.12.05-10.23.12:455][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3050' (P:0 D:0)
+[2022.12.05-10.23.12:455][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3050' (P:0 D:0)
+[2022.12.05-10.23.12:455][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3050' (P:0 D:0)
+[2022.12.05-10.23.12:455][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.12.05-10.23.12:455][  0]LogRHI: Texture pool is 5649 MB (70% of 8070 MB)
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:     DeviceId    : 2507
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:     SubSysId    : 163d10de
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:     DedicatedVideoMemory : 8462008320 bytes
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:     SharedSystemMemory : 8505055232 bytes
+[2022.12.05-10.23.12:455][  0]LogD3D11RHI:     AdapterLuid : 0 49912
+[2022.12.05-10.23.12:498][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.05-10.23.12:498][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.05-10.23.12:498][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.05-10.23.12:515][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.12.05-10.23.12:527][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.12.05-10.23.12:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.05-10.23.12:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.05-10.23.12:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.05-10.23.12:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.05-10.23.12:706][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.05-10.23.12:710][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.05-10.23.12:725][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.05-10.23.12:741][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.05-10.23.12:741][  0]LogShaderCompilers: Guid format shader working directory is 30 characters bigger than the processId version (D:/SpellTowerv1/Intermediate/Shaders/WorkingDirectory/10532/).
+[2022.12.05-10.23.12:741][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sarvz/AppData/Local/Temp/UnrealShaderWorkingDir/392748F441717D1CF476AEA04EF3015E/'.
+[2022.12.05-10.23.12:741][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.05-10.23.12:741][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.05-10.23.12:741][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.05-10.23.13:241][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.05-10.23.13:288][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/sarvz/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.05-10.23.13:288][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sarvz/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.05-10.23.13:288][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/SpellTowerv1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.05-10.23.13:288][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.05-10.23.13:288][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/SpellTowerv1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.05-10.23.13:288][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.05-10.23.13:302][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.05-10.23.13:302][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.05-10.23.13:302][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.05-10.23.13:314][  0]LogDerivedDataCache: Speed tests for C:/Users/sarvz/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.05-10.23.13:315][  0]LogDerivedDataCache: Display: Performance to C:/Users/sarvz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=2920.79MBs, RandomWriteSpeed=80.25MBs. Assigned SpeedClass 'Local'
+[2022.12.05-10.23.13:315][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sarvz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.05-10.23.13:315][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.05-10.23.13:315][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.05-10.23.13:324][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.05-10.23.13:325][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.05-10.23.13:415][  0]LogInit: Using OS detected language (en-US).
+[2022.12.05-10.23.13:415][  0]LogInit: Using OS detected locale (en-US).
+[2022.12.05-10.23.13:415][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.12.05-10.23.13:415][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2022.12.05-10.23.13:415][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.05-10.23.13:415][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.05-10.23.13:417][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2022.12.05-10.23.13:417][  0]LogAssetRegistry: FAssetRegistry took 0.0011 seconds to start up
+[2022.12.05-10.23.13:518][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.000604 seconds
+[2022.12.05-10.23.13:555][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.05-10.23.13:555][  0]LogInit: Active device profile: [00000000326FAF00][0000000029C97100 49] Windows
+[2022.12.05-10.23.13:555][  0]LogInit: Profiles: [00000000326FAF00][0000000029C97100 49] Windows, [00000000326AA300][0000000029B0F280 49] WindowsNoEditor, [00000000326FA200][0000000029B13400 49] WindowsServer, [00000000326AB000][0000000029B17580 49] WindowsClient, [00000000326F9500][0000000029B1B700 49] IOS, [00000000326ABC00][0000000029B1F880 49] iPadAir, [00000000326F8800][0000000029B23A00 49] iPadAir2, [000000003263E500][0000000029B2A140 49] IPadPro, [000000003263E600][0000000029B26180 49] iPadAir3, [00000000326AB100][0000000029B2E300 49] iPadAir4, [000000003263F400][0000000029B32480 49] iPadMini2, [00000000326AA900][0000000029B36600 49] iPadMini3, [000000003263E400][0000000029B3A780 49] iPadMini4, [00000000326A9900][0000000029B0A8C0 49] iPadMini5, [0000000032685E00][0000000029D0AB00 49] iPhone6, [0000000032685F00][0000000029B3EB40 49] iPodTouch6, [00000000326FAE00][0000000029D16DC0 49] iPhone7, [00000000326FAD00][0000000029D0EE00 49] iPodTouch7, [000000003263DC00][0000000029D1AF80 49] iPhone5S, [00000000326FA400][0000000029D1F100 49] iPhone6Plus, [000000003263D400][0000000029D23280 49] iPhone6S, [00000000326FB900][0000000029D27400 49] iPhone6SPlus, [000000003263CD00][0000000029D2B580 49] iPhone7Plus, [00000000326FB700][0000000029D2F700 49] iPhoneSE, [000000003263C500][0000000029D33880 49] iPhone8, [00000000326F8100][0000000029D37A00 49] iPhone8Plus, [000000003263C900][0000000029D3BB80 49] iPhoneX, [00000000326F8600][0000000029D3E180 49] iPhoneXS, [000000003263C800][0000000029D42300 49] iPhoneXSMax, [0000000032684400][0000000029D46480 49] iPhoneXR, [00000000326F9000][0000000029D4A600 49] iPhone11, [0000000032684800][0000000029D4E780 49] iPhone11Pro, [00000000326FA500][0000000029D52900 49] iPhone11ProMax, [0000000032684B00][0000000029D12A40 49] iPhoneSE2, [00000000326FBE00][000000002A950B80 49] iPhone12Mini, [0000000032684D00][000000002A954CC0 49] iPhone12, [00000000326FBD00][000000002A958E00 49] iPhone12Pro, [000000003263FA00][000000002A960F80 49] iPhone12ProMax, [0000000032684600][000000002A965100 49] iPadPro105, [000000003263D100][000000002A969280 49] iPadPro129, [0000000032686400][000000002A96D400 49] iPadPro97, [000000003263D700][000000002A971580 49] iPadPro2_129, [0000000032686F00][000000002A975700 49] iPad5, [000000003263E300][000000002A979880 49] iPad6, [0000000032686D00][000000002A97DA00 49] iPad7, [00000000326FA300][000000002A981B80 49] iPad8, [0000000032684E00][000000002A984180 49] iPadPro11, [00000000326FA900][000000002A988300 49] iPadPro2_11, [0000000032685200][000000002A98C480 49] iPadPro3_129, [00000000326FB300][000000002A990600 49] iPadPro4_129, [0000000032685100][000000002A994780 49] AppleTV, [00000000326F8B00][000000002A998900 49] AppleTV4K, [0000000032684200][000000002A99CA80 49] TVOS, [00000000326FB500][000000002A9A0C00 49] Mac, [0000000032685600][000000002A95CD40 49] MacClient, [00000000326F8E00][000000002A9A4E80 49] MacNoEditor, [0000000032684100][000000002A9A8FC0 49] MacServer, [00000000326F8700][000000002A2A3140 49] Linux, [0000000032685B00][000000002A2A72C0 49] LinuxAArch64, [00000000326F9200][000000002A2AB440 49] LinuxNoEditor, [0000000032686200][000000002A2AF5C0 49] LinuxAArch64NoEditor, [00000000326F9B00][000000002A2B3740 49] LinuxClient, [0000000032687400][000000002A2B78C0 49] LinuxAArch64Client, [00000000326F9900][000000002A2BBA40 49] LinuxServer, [0000000032686300][000000002A2BFBC0 49] LinuxAArch64Server, [00000000326FBB00][000000002A2C21C0 49] Android, [0000000032686600][000000002A2C6340 49] Android_Low, [00000000326FB800][000000002A2CA4C0 49] Android_Mid, [0000000032685C00][000000002A2CE640 49] Android_High, [00000000326F9E00][000000002A2D27C0 49] Android_Default, [0000000032687B00][000000002A2D6940 49] Android_Adreno4xx, [00000000326F8900][0000000029BBCAC0 49] Android_Adreno5xx_Low, [0000000032685400][0000000029BC0C40 49] Android_Adreno5xx, [00000000326FB200][0000000029BC4DC0 49] Android_Adreno6xx, [0000000032686B00][000000002A9ACF00 49] Android_Adreno6xx_Vulkan, [00000000326FB400][0000000029BC9040 49] Android_Mali_T6xx, [0000000032684700][0000000029BCD180 49] Android_Mali_T7xx, [00000000326F9100][0000000029BD12C0 49] Android_Mali_T8xx, [0000000032685900][0000000029BD9440 49] Android_Mali_G71, [00000000326F8500][0000000029BDD5C0 49] Android_Mali_G72, [0000000032687500][000000002A2DB740 49] Android_Mali_G72_Vulkan, [00000000326F9F00][000000002A2DF8C0 49] Android_Mali_G76, [0000000032685000][000000002A2E3A40 49] Android_Mali_G76_Vulkan, [00000000326FAA00][000000002A2E7BC0 49] Android_Mali_G77, [0000000032687F00][000000002A2EA1C0 49] Android_Mali_G77_Vulkan, [00000000326FA600][000000002A2EE340 49] Android_Mali_G78, [0000000032686100][000000002A2F24C0 49] Android_Mali_G78_Vulkan, [00000000326FBA00][000000002A2F6640 49] Android_Mali_G710, [00000000326A9500][000000002A2FA7C0 49] Android_Mali_G710_Vulkan, [000000003263EC00][000000002A2FE940 49] Android_Vulkan_SM5, [00000000326A8C00][000000002A302AC0 49] Android_PowerVR_G6xxx, [000000003263D800][000000002A306C40 49] Android_PowerVR_GT7xxx, [00000000326A9100][000000002A30ADC0 49] Android_PowerVR_GE8xxx, [000000003263C300][000000002A30EF40 49] Android_PowerVR_GM9xxx, [00000000326A8B00][0000000029BD5080 49] Android_PowerVR_GM9xxx_Vulkan, [000000003263F500][000000002A3131C0 49] Android_TegraK1, [00000000326AA800][000000002A317300 49] Android_Unknown_Vulkan, [000000003263FE00][000000002A31B440 49] Lumin, [00000000326AAF00][000000002A3235C0 49] Lumin_Desktop, [000000003263D600][000000002A327740 49] HoloLens, 
+[2022.12.05-10.23.13:575][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.05-10.23.13:575][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.05-10.23.13:575][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.05-10.23.13:575][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.05-10.23.13:575][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.05-10.23.13:624][  0]LogNetVersion: SpellTowerv1 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3091365543)
+[2022.12.05-10.23.13:659][  0]LogTexture: Warning: VolumeTexture /Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.T_VolumeNoiseErosion32 cannot be created, rhi does not support format DXT1.
+[2022.12.05-10.23.13:659][  0]LogTexture: Warning: VolumeTexture /Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.T_VolumeNoiseShape64 cannot be created, rhi does not support format DXT1.
+[2022.12.05-10.23.13:755][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.05-10.23.13:790][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.05-10.23.13:840][  0]LogMoviePlayer: Initializing movie player
+[2022.12.05-10.23.13:928][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1316A79E4D4AE82B6AEF6AB7DFC81259 | Instance: D1B741044B4ADB8B3CB5EA841A9BE5C7 (DESKTOP-T4VHBKV-10532).
+[2022.12.05-10.23.13:938][  0]LogCollectionManager: Loaded 0 collections in 0.000992 seconds
+[2022.12.05-10.23.13:940][  0]LogFileCache: Scanning file cache for directory 'D:/SpellTowerv1/Saved/Collections/' took 0.00s
+[2022.12.05-10.23.13:940][  0]LogFileCache: Scanning file cache for directory 'D:/SpellTowerv1/Content/Developers/sarvz/Collections/' took 0.00s
+[2022.12.05-10.23.13:940][  0]LogFileCache: Scanning file cache for directory 'D:/SpellTowerv1/Content/Collections/' took 0.00s
+[2022.12.05-10.23.13:940][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2022.12.05-10.23.14:000][  0]LogPython: Using Python 3.7.7
+[2022.12.05-10.23.14:275][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.05-10.23.14:277][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.05-10.23.14:323][  0]SourceControl: Source control is disabled
+[2022.12.05-10.23.14:323][  0]SourceControl: Source control is disabled
+[2022.12.05-10.23.14:324][  0]SourceControl: Source control is disabled
+[2022.12.05-10.23.14:325][  0]LogUProjectInfo: Found projects:
+[2022.12.05-10.23.14:369][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.05-10.23.14:385][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.05-10.23.14:396][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.05-10.23.14:396][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.05-10.23.14:434][  0]LogOcInput: OculusInput pre-init called
+[2022.12.05-10.23.14:440][  0]LogUObjectArray: 22143 objects as part of root set at end of initial load.
+[2022.12.05-10.23.14:440][  0]LogUObjectAllocator: 5994816 out of 0 bytes used by permanent object pool.
+[2022.12.05-10.23.14:440][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.05-10.23.14:470][  0]LogEngine: Initializing Engine...
+[2022.12.05-10.23.14:472][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.05-10.23.14:472][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.05-10.23.14:472][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.05-10.23.14:473][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.05-10.23.14:532][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.05-10.23.14:532][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.05-10.23.14:534][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.05-10.23.14:534][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.05-10.23.14:534][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.05-10.23.14:534][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.05-10.23.14:534][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-10.23.14:534][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-10.23.14:534][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-10.23.14:534][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-10.23.14:534][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-10.23.14:534][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-10.23.14:534][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-10.23.14:534][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-10.23.14:535][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-10.23.14:535][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-10.23.14:535][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-10.23.14:535][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-10.23.14:539][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-10.23.14:540][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-10.23.14:548][  0]LogAudioMixer: Display: Using Audio Device AAA (NVIDIA High Definition Audio)
+[2022.12.05-10.23.14:549][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-10.23.14:550][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-10.23.14:550][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-10.23.14:551][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-10.23.14:551][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-10.23.14:551][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-10.23.14:552][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-10.23.14:552][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-10.23.14:552][  0]LogInit: FAudioDevice initialized.
+[2022.12.05-10.23.14:553][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.05-10.23.14:555][  0]LogInit: Texture streaming: Enabled
+[2022.12.05-10.23.14:587][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.05-10.23.14:587][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-10.23.14:588][  0]LogInit: Display: Game Engine Initialized.
+[2022.12.05-10.23.14:588][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.12.05-10.23.14:655][  0]LogInit: Display: Starting Game.
+[2022.12.05-10.23.14:655][  0]LogNet: Browse: /Game/Levels/Menu?Name=Player
+[2022.12.05-10.23.14:655][  0]LogLoad: LoadMap: /Game/Levels/Menu?Name=Player
+[2022.12.05-10.23.14:655][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.12.05-10.23.14:656][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-10.23.14:656][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-10.23.14:661][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-10.23.14:663][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.12.05-10.23.14:809][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Menu'.
+[2022.12.05-10.23.14:815][  0]LogAIModule: Creating AISystem for world Menu
+[2022.12.05-10.23.14:815][  0]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.12.05-10.23.14:859][  0]LogWorld: Bringing World /Game/Levels/Menu.Menu up for play (max tick rate 0) at 2022.12.05-15.23.14
+[2022.12.05-10.23.14:859][  0]LogWorld: Bringing up level for play took: 0.043413
+[2022.12.05-10.23.14:859][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.05-10.23.14:862][  0]LogScript: Warning: UGameplayStatics::SpawnObject null outer
+[2022.12.05-10.23.14:862][  0]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnObject_ReturnValue
+	2DSideScrollerGameMode_C /Game/Levels/Menu.Menu:PersistentLevel.2DSideScrollerGameMode_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode:004C
+[2022.12.05-10.23.14:862][  0]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ReceiveBeginPlay
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode
+
+[2022.12.05-10.23.14:862][  0]LogScript: Warning: UGameplayStatics::SpawnObject null outer
+[2022.12.05-10.23.14:862][  0]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnObject_ReturnValue
+	2DSideScrollerCharacter_C /Game/Levels/Menu.Menu:PersistentLevel.2DSideScrollerCharacter_C_0
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0095
+[2022.12.05-10.23.14:862][  0]LogScript: Warning: Script call stack:
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveBeginPlay
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+
+[2022.12.05-10.23.14:862][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.12.05-10.23.14:862][  0]LogLoad: Took 0.207384 seconds to LoadMap(/Game/Levels/Menu)
+[2022.12.05-10.23.14:885][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.05-10.23.14:897][  0]LogRenderer: Reallocating scene render targets to support 1356x736 Format 2 NumSamples 1 (Frame:1).
+[2022.12.05-10.23.14:897][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.05-10.23.14:897][  0]LogLoad: (Engine Initialization) Total time: 3.23 seconds
+[2022.12.05-10.23.14:897][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.05-10.23.14:899][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.05-10.23.14:903][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-10.23.14:910][  1]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.05-10.23.16:578][961]LogPackageName: SearchForPackageOnDisk took   0.044s to resolve Level2.umap.
+[2022.12.05-10.23.16:622][961]LogPackageName: SearchForPackageOnDisk took   0.045s to resolve Level2.umap.
+[2022.12.05-10.23.16:622][961]LogNet: Browse: /Game/Levels/Level2
+[2022.12.05-10.23.16:622][961]LogLoad: LoadMap: /Game/Levels/Level2
+[2022.12.05-10.23.16:622][961]LogWorld: BeginTearingDown for /Game/Levels/Menu
+[2022.12.05-10.23.16:623][961]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-10.23.16:623][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-10.23.16:667][961]LogAudio: Display: Waited 43.978603 ms for audio thread.
+[2022.12.05-10.23.16:696][961]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-10.23.16:718][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.12.05-10.23.16:808][961]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2022.12.05-10.23.16:808][961]LogAIModule: Creating AISystem for world Level2
+[2022.12.05-10.23.16:809][961]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.12.05-10.23.16:810][961]LogWorld: Bringing World /Game/Levels/Level2.Level2 up for play (max tick rate 0) at 2022.12.05-15.23.16
+[2022.12.05-10.23.16:810][961]LogWorld: Bringing up level for play took: 0.001146
+[2022.12.05-10.23.16:811][961]LogScript: Warning: UGameplayStatics::SpawnObject null outer
+[2022.12.05-10.23.16:811][961]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnObject_ReturnValue
+	2DSideScrollerGameMode_C /Game/Levels/Level2.Level2:PersistentLevel.2DSideScrollerGameMode_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode:004C
+[2022.12.05-10.23.16:811][961]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ReceiveBeginPlay
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode
+
+[2022.12.05-10.23.16:812][961]LogScript: Warning: UGameplayStatics::SpawnObject null outer
+[2022.12.05-10.23.16:812][961]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnObject_ReturnValue
+	2DSideScrollerCharacter_C /Game/Levels/Level2.Level2:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0095
+[2022.12.05-10.23.16:812][961]LogScript: Warning: Script call stack:
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveBeginPlay
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+
+[2022.12.05-10.23.16:812][961]LogLoad: Took 0.189484 seconds to LoadMap(/Game/Levels/Level2)
+[2022.12.05-10.23.18:340][882]PIE: Warning: Invalid Simulate Options: Body (O_V_C_0.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:340][882]PIE: Warning: Invalid Simulate Options: Body (O_V_C_0.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:340][882]PIE: Warning: Invalid Simulate Options: Body (O_V_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:340][882]PIE: Warning: Invalid Simulate Options: Body (O_V_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:340][882]PIE: Warning: Invalid Simulate Options: Body (O_N_C_0.PaperSprite N) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:340][882]PIE: Warning: Invalid Simulate Options: Body (O_N_C_0.PaperSprite N) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:340][882]PIE: Warning: Invalid Simulate Options: Body (O_N_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:340][882]PIE: Warning: Invalid Simulate Options: Body (O_N_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:340][882]PIE: Warning: Invalid Simulate Options: Body (O_F_C_0.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:340][882]PIE: Warning: Invalid Simulate Options: Body (O_F_C_0.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_F_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_F_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_V_C_1.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_V_C_1.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_V_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_V_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_F_C_1.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_F_C_1.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_F_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_F_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_W_C_0.PaperSprite W) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_W_C_0.PaperSprite W) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_W_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.18:341][882]PIE: Warning: Invalid Simulate Options: Body (O_W_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:193][699]PIE: Warning: Invalid Simulate Options: Body (O_H_C_0.PaperSprite H) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:193][699]PIE: Warning: Invalid Simulate Options: Body (O_H_C_0.PaperSprite H) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:193][699]PIE: Warning: Invalid Simulate Options: Body (O_H_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:193][699]PIE: Warning: Invalid Simulate Options: Body (O_H_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_G_C_0.PaperSprite G) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_G_C_0.PaperSprite G) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_G_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_G_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_B_C_0.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_B_C_0.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_B_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_B_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_W_C_1.PaperSprite W) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_W_C_1.PaperSprite W) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_W_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_W_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_U_C_0.PaperSprite U) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_U_C_0.PaperSprite U) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_U_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_U_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_S_C_0.PaperSprite S) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_S_C_0.PaperSprite S) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_S_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.20:194][699]PIE: Warning: Invalid Simulate Options: Body (O_S_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_P_C_0.PaperSprite P) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_P_C_0.PaperSprite P) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_P_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_P_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_K_C_0.PaperSprite K) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_K_C_0.PaperSprite K) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_K_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_K_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_W_C_2.PaperSprite W) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_W_C_2.PaperSprite W) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_W_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_W_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_N_C_1.PaperSprite N) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:139][395]PIE: Warning: Invalid Simulate Options: Body (O_N_C_1.PaperSprite N) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:140][395]PIE: Warning: Invalid Simulate Options: Body (O_N_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:140][395]PIE: Warning: Invalid Simulate Options: Body (O_N_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:140][395]PIE: Warning: Invalid Simulate Options: Body (O_W_C_3.PaperSprite W) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:140][395]PIE: Warning: Invalid Simulate Options: Body (O_W_C_3.PaperSprite W) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:140][395]PIE: Warning: Invalid Simulate Options: Body (O_W_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:140][395]PIE: Warning: Invalid Simulate Options: Body (O_W_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:140][395]PIE: Warning: Invalid Simulate Options: Body (O_E_C_0.PaperSprite E) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:140][395]PIE: Warning: Invalid Simulate Options: Body (O_E_C_0.PaperSprite E) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:140][395]PIE: Warning: Invalid Simulate Options: Body (O_E_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.22:140][395]PIE: Warning: Invalid Simulate Options: Body (O_E_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.23:420][699]PIE: Warning: O_W_C_1.PaperSprite W has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.23:423][704]PIE: Warning: O_B_C_0.PaperSprite B has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.23:426][709]PIE: Warning: O_B_C_0.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.23:426][709]PIE: Warning: O_W_C_1.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.24:119][966]PIE: Warning: Invalid Simulate Options: Body (O_F_C_2.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_F_C_2.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_F_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_F_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_U_C_1.PaperSprite U) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_U_C_1.PaperSprite U) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_U_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_U_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_J_C_0.PaperSprite J) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_J_C_0.PaperSprite J) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_J_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_J_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_O_C_0.PaperSprite O) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_O_C_0.PaperSprite O) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_O_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_O_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_J_C_1.PaperSprite J) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_J_C_1.PaperSprite J) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_J_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_J_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_F_C_3.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:120][966]PIE: Warning: Invalid Simulate Options: Body (O_F_C_3.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:121][966]PIE: Warning: Invalid Simulate Options: Body (O_F_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.24:121][966]PIE: Warning: Invalid Simulate Options: Body (O_F_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_W_C_4.PaperSprite W) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_W_C_4.PaperSprite W) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_W_C_4.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_W_C_4.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_X_C_0.PaperSprite X) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_X_C_0.PaperSprite X) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_X_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_X_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_E_C_1.PaperSprite E) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_E_C_1.PaperSprite E) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_E_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_E_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_H_C_1.PaperSprite H) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_H_C_1.PaperSprite H) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_H_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:114][387]PIE: Warning: Invalid Simulate Options: Body (O_H_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:115][387]PIE: Warning: Invalid Simulate Options: Body (O_F_C_4.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:115][387]PIE: Warning: Invalid Simulate Options: Body (O_F_C_4.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:115][387]PIE: Warning: Invalid Simulate Options: Body (O_F_C_4.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:115][387]PIE: Warning: Invalid Simulate Options: Body (O_F_C_4.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:115][387]PIE: Warning: Invalid Simulate Options: Body (O_I_C_0.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:115][387]PIE: Warning: Invalid Simulate Options: Body (O_I_C_0.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:115][387]PIE: Warning: Invalid Simulate Options: Body (O_I_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.26:115][387]PIE: Warning: Invalid Simulate Options: Body (O_I_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:113][720]PIE: Warning: Invalid Simulate Options: Body (O_I_C_1.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:113][720]PIE: Warning: Invalid Simulate Options: Body (O_I_C_1.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:113][720]PIE: Warning: Invalid Simulate Options: Body (O_I_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:113][720]PIE: Warning: Invalid Simulate Options: Body (O_I_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:113][720]PIE: Warning: Invalid Simulate Options: Body (O_A_C_0.PaperSprite) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:113][720]PIE: Warning: Invalid Simulate Options: Body (O_A_C_0.PaperSprite) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:113][720]PIE: Warning: Invalid Simulate Options: Body (O_A_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:113][720]PIE: Warning: Invalid Simulate Options: Body (O_A_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:113][720]PIE: Warning: Invalid Simulate Options: Body (O_A_C_1.PaperSprite) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:113][720]PIE: Warning: Invalid Simulate Options: Body (O_A_C_1.PaperSprite) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:113][720]PIE: Warning: Invalid Simulate Options: Body (O_A_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:113][720]PIE: Warning: Invalid Simulate Options: Body (O_A_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:114][720]PIE: Warning: Invalid Simulate Options: Body (O_W_C_5.PaperSprite W) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:114][720]PIE: Warning: Invalid Simulate Options: Body (O_W_C_5.PaperSprite W) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:114][720]PIE: Warning: Invalid Simulate Options: Body (O_W_C_5.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:114][720]PIE: Warning: Invalid Simulate Options: Body (O_W_C_5.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:114][720]PIE: Warning: Invalid Simulate Options: Body (O_G_C_1.PaperSprite G) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:114][720]PIE: Warning: Invalid Simulate Options: Body (O_G_C_1.PaperSprite G) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:114][720]PIE: Warning: Invalid Simulate Options: Body (O_G_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:114][720]PIE: Warning: Invalid Simulate Options: Body (O_G_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:114][720]PIE: Warning: Invalid Simulate Options: Body (O_R_C_0.PaperSprite R) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:114][720]PIE: Warning: Invalid Simulate Options: Body (O_R_C_0.PaperSprite R) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:114][720]PIE: Warning: Invalid Simulate Options: Body (O_R_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:114][720]PIE: Warning: Invalid Simulate Options: Body (O_R_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.28:491][330]PIE: Warning: O_X_C_0.PaperSprite X has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.28:497][339]PIE: Warning: O_X_C_0.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.30:112][974]PIE: Warning: Invalid Simulate Options: Body (O_L_C_0.PaperSprite L) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:112][974]PIE: Warning: Invalid Simulate Options: Body (O_L_C_0.PaperSprite L) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:112][974]PIE: Warning: Invalid Simulate Options: Body (O_L_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:112][974]PIE: Warning: Invalid Simulate Options: Body (O_L_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_G_C_2.PaperSprite G) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_G_C_2.PaperSprite G) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_G_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_G_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_O_C_1.PaperSprite O) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_O_C_1.PaperSprite O) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_O_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_O_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_B_C_1.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_B_C_1.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_B_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_B_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_Z_C_0.PaperSprite Z) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_Z_C_0.PaperSprite Z) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_Z_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_Z_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_D_C_0.PaperSprite D) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_D_C_0.PaperSprite D) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_D_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.30:113][974]PIE: Warning: Invalid Simulate Options: Body (O_D_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:112][186]PIE: Warning: Invalid Simulate Options: Body (O_S_C_1.PaperSprite S) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:112][186]PIE: Warning: Invalid Simulate Options: Body (O_S_C_1.PaperSprite S) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:112][186]PIE: Warning: Invalid Simulate Options: Body (O_S_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:112][186]PIE: Warning: Invalid Simulate Options: Body (O_S_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_U_C_2.PaperSprite U) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_U_C_2.PaperSprite U) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_U_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_U_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_F_C_5.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_F_C_5.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_F_C_5.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_F_C_5.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_B_C_2.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_B_C_2.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_B_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_B_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_I_C_2.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_I_C_2.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_I_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_I_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_V_C_2.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_V_C_2.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_V_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.32:113][186]PIE: Warning: Invalid Simulate Options: Body (O_V_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:112][271]PIE: Warning: Invalid Simulate Options: Body (O_I_C_3.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:112][271]PIE: Warning: Invalid Simulate Options: Body (O_I_C_3.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:112][271]PIE: Warning: Invalid Simulate Options: Body (O_I_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:112][271]PIE: Warning: Invalid Simulate Options: Body (O_I_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:112][271]PIE: Warning: Invalid Simulate Options: Body (O_V_C_3.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:112][271]PIE: Warning: Invalid Simulate Options: Body (O_V_C_3.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:112][271]PIE: Warning: Invalid Simulate Options: Body (O_V_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:112][271]PIE: Warning: Invalid Simulate Options: Body (O_V_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:112][271]PIE: Warning: Invalid Simulate Options: Body (O_F_C_6.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:112][271]PIE: Warning: Invalid Simulate Options: Body (O_F_C_6.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_F_C_6.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_F_C_6.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_D_C_1.PaperSprite D) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_D_C_1.PaperSprite D) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_D_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_D_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_D_C_2.PaperSprite D) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_D_C_2.PaperSprite D) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_D_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_D_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_O_C_2.PaperSprite O) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_O_C_2.PaperSprite O) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_O_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.34:113][271]PIE: Warning: Invalid Simulate Options: Body (O_O_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.35:427][249]PIE: Warning: O_S_C_1.PaperSprite S has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.35:432][255]PIE: Warning: O_S_C_1.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.36:112][253]PIE: Warning: Invalid Simulate Options: Body (O_Y_C_0.PaperSprite Y) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:112][253]PIE: Warning: Invalid Simulate Options: Body (O_Y_C_0.PaperSprite Y) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:112][253]PIE: Warning: Invalid Simulate Options: Body (O_Y_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:112][253]PIE: Warning: Invalid Simulate Options: Body (O_Y_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:112][253]PIE: Warning: Invalid Simulate Options: Body (O_I_C_4.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:112][253]PIE: Warning: Invalid Simulate Options: Body (O_I_C_4.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:112][253]PIE: Warning: Invalid Simulate Options: Body (O_I_C_4.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:112][253]PIE: Warning: Invalid Simulate Options: Body (O_I_C_4.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:112][253]PIE: Warning: Invalid Simulate Options: Body (O_F_C_7.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:112][253]PIE: Warning: Invalid Simulate Options: Body (O_F_C_7.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:112][253]PIE: Warning: Invalid Simulate Options: Body (O_F_C_7.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:112][253]PIE: Warning: Invalid Simulate Options: Body (O_F_C_7.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:113][253]PIE: Warning: Invalid Simulate Options: Body (O_N_C_2.PaperSprite N) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:113][253]PIE: Warning: Invalid Simulate Options: Body (O_N_C_2.PaperSprite N) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:113][253]PIE: Warning: Invalid Simulate Options: Body (O_N_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:113][253]PIE: Warning: Invalid Simulate Options: Body (O_N_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:113][253]PIE: Warning: Invalid Simulate Options: Body (O_Y_C_1.PaperSprite Y) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:113][253]PIE: Warning: Invalid Simulate Options: Body (O_Y_C_1.PaperSprite Y) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:113][253]PIE: Warning: Invalid Simulate Options: Body (O_Y_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:113][253]PIE: Warning: Invalid Simulate Options: Body (O_Y_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:113][253]PIE: Warning: Invalid Simulate Options: Body (O_C_C_0.PaperSprite C) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:113][253]PIE: Warning: Invalid Simulate Options: Body (O_C_C_0.PaperSprite C) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:113][253]PIE: Warning: Invalid Simulate Options: Body (O_C_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:113][253]PIE: Warning: Invalid Simulate Options: Body (O_C_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.36:855][238]LogPackageName: SearchForPackageOnDisk took   0.043s to resolve GameOver.umap.
+[2022.12.05-10.23.36:900][239]LogPackageName: SearchForPackageOnDisk took   0.043s to resolve GameOver.umap.
+[2022.12.05-10.23.36:900][239]LogNet: Browse: /Game/Levels/GameOver
+[2022.12.05-10.23.36:900][239]LogLoad: LoadMap: /Game/Levels/GameOver
+[2022.12.05-10.23.36:900][239]LogWorld: BeginTearingDown for /Game/Levels/Level2
+[2022.12.05-10.23.36:901][239]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-10.23.36:901][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-10.23.36:939][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-10.23.36:945][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.05-10.23.36:960][239]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameOver'.
+[2022.12.05-10.23.36:962][239]LogAIModule: Creating AISystem for world GameOver
+[2022.12.05-10.23.37:000][239]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.12.05-10.23.37:001][239]LogWorld: Bringing World /Game/Levels/GameOver.GameOver up for play (max tick rate 0) at 2022.12.05-15.23.37
+[2022.12.05-10.23.37:001][239]LogWorld: Bringing up level for play took: 0.000347
+[2022.12.05-10.23.37:001][239]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.05-10.23.37:002][239]LogScript: Warning: UGameplayStatics::SpawnObject null outer
+[2022.12.05-10.23.37:002][239]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnObject_ReturnValue
+	2DSideScrollerGameMode_C /Game/Levels/GameOver.GameOver:PersistentLevel.2DSideScrollerGameMode_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode:004C
+[2022.12.05-10.23.37:002][239]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ReceiveBeginPlay
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode
+
+[2022.12.05-10.23.37:002][239]LogScript: Warning: UGameplayStatics::SpawnObject null outer
+[2022.12.05-10.23.37:002][239]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnObject_ReturnValue
+	2DSideScrollerCharacter_C /Game/Levels/GameOver.GameOver:PersistentLevel.2DSideScrollerCharacter_C_0
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0095
+[2022.12.05-10.23.37:002][239]LogScript: Warning: Script call stack:
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveBeginPlay
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+
+[2022.12.05-10.23.37:003][239]LogLoad: Took 0.103402 seconds to LoadMap(/Game/Levels/GameOver)
+[2022.12.05-10.23.39:127][ 66]LogPackageName: SearchForPackageOnDisk took   0.055s, but failed to resolve MainMenu.umap.
+[2022.12.05-10.23.39:183][ 67]LogPackageName: SearchForPackageOnDisk took   0.055s, but failed to resolve MainMenu.umap.
+[2022.12.05-10.23.39:183][ 67]LogNet: Browse: /Game/Levels/Menu
+[2022.12.05-10.23.39:183][ 67]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Levels/Menu
+[2022.12.05-10.23.39:183][ 67]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Levels/Menu'
+[2022.12.05-10.23.39:183][ 67]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Levels/Menu
+[2022.12.05-10.23.39:183][ 67]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Levels/Menu'
+[2022.12.05-10.23.39:185][ 68]LogNet: Browse: /Game/Levels/Menu?closed
+[2022.12.05-10.23.39:185][ 68]LogNet: Connection failed; returning to Entry
+[2022.12.05-10.23.39:185][ 68]LogLoad: LoadMap: /Game/Levels/Menu?closed
+[2022.12.05-10.23.39:185][ 68]LogWorld: BeginTearingDown for /Game/Levels/GameOver
+[2022.12.05-10.23.39:185][ 68]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-10.23.39:185][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-10.23.39:237][ 68]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-10.23.39:240][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.12.05-10.23.39:414][ 68]LogAudio: Display: Audio Device (ID: 1) registered with world 'Menu'.
+[2022.12.05-10.23.39:414][ 68]LogAIModule: Creating AISystem for world Menu
+[2022.12.05-10.23.39:415][ 68]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.12.05-10.23.39:415][ 68]LogWorld: Bringing World /Game/Levels/Menu.Menu up for play (max tick rate 0) at 2022.12.05-15.23.39
+[2022.12.05-10.23.39:416][ 68]LogWorld: Bringing up level for play took: 0.000326
+[2022.12.05-10.23.39:416][ 68]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.05-10.23.39:417][ 68]LogScript: Warning: UGameplayStatics::SpawnObject null outer
+[2022.12.05-10.23.39:417][ 68]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnObject_ReturnValue
+	2DSideScrollerGameMode_C /Game/Levels/Menu.Menu:PersistentLevel.2DSideScrollerGameMode_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode:004C
+[2022.12.05-10.23.39:417][ 68]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ReceiveBeginPlay
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode
+
+[2022.12.05-10.23.39:418][ 68]LogScript: Warning: UGameplayStatics::SpawnObject null outer
+[2022.12.05-10.23.39:418][ 68]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnObject_ReturnValue
+	2DSideScrollerCharacter_C /Game/Levels/Menu.Menu:PersistentLevel.2DSideScrollerCharacter_C_0
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0095
+[2022.12.05-10.23.39:418][ 68]LogScript: Warning: Script call stack:
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveBeginPlay
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+
+[2022.12.05-10.23.39:418][ 68]LogLoad: Took 0.233430 seconds to LoadMap(/Game/Levels/Menu)
+[2022.12.05-10.23.39:470][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.12.05-10.23.40:224][ 63]LogPackageName: SearchForPackageOnDisk took   0.042s to resolve Level2.umap.
+[2022.12.05-10.23.40:267][ 63]LogPackageName: SearchForPackageOnDisk took   0.042s to resolve Level2.umap.
+[2022.12.05-10.23.40:267][ 63]LogNet: Browse: /Game/Levels/Level2
+[2022.12.05-10.23.40:267][ 63]LogLoad: LoadMap: /Game/Levels/Level2
+[2022.12.05-10.23.40:267][ 63]LogWorld: BeginTearingDown for /Game/Levels/Menu
+[2022.12.05-10.23.40:268][ 63]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-10.23.40:268][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-10.23.40:303][ 63]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-10.23.40:307][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.12.05-10.23.40:389][ 63]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2022.12.05-10.23.40:390][ 63]LogAIModule: Creating AISystem for world Level2
+[2022.12.05-10.23.40:390][ 63]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.12.05-10.23.40:392][ 63]LogWorld: Bringing World /Game/Levels/Level2.Level2 up for play (max tick rate 0) at 2022.12.05-15.23.40
+[2022.12.05-10.23.40:392][ 63]LogWorld: Bringing up level for play took: 0.001190
+[2022.12.05-10.23.40:393][ 63]LogScript: Warning: UGameplayStatics::SpawnObject null outer
+[2022.12.05-10.23.40:393][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnObject_ReturnValue
+	2DSideScrollerGameMode_C /Game/Levels/Level2.Level2:PersistentLevel.2DSideScrollerGameMode_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode:004C
+[2022.12.05-10.23.40:393][ 63]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ReceiveBeginPlay
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode
+
+[2022.12.05-10.23.40:393][ 63]LogScript: Warning: UGameplayStatics::SpawnObject null outer
+[2022.12.05-10.23.40:393][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnObject_ReturnValue
+	2DSideScrollerCharacter_C /Game/Levels/Level2.Level2:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0095
+[2022.12.05-10.23.40:393][ 63]LogScript: Warning: Script call stack:
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveBeginPlay
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+
+[2022.12.05-10.23.40:394][ 63]LogLoad: Took 0.126411 seconds to LoadMap(/Game/Levels/Level2)
+[2022.12.05-10.23.40:395][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-10.23.40:396][ 64]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_S_C_0.PaperSprite S) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_S_C_0.PaperSprite S) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_S_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_S_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_P_C_0.PaperSprite P) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_P_C_0.PaperSprite P) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_P_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_P_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_P_C_1.PaperSprite P) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_P_C_1.PaperSprite P) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_P_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_P_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_M_C_0.PaperSprite M) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_M_C_0.PaperSprite M) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_M_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_M_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_D_C_0.PaperSprite D) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:974][200]PIE: Warning: Invalid Simulate Options: Body (O_D_C_0.PaperSprite D) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:975][200]PIE: Warning: Invalid Simulate Options: Body (O_D_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:975][200]PIE: Warning: Invalid Simulate Options: Body (O_D_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:975][200]PIE: Warning: Invalid Simulate Options: Body (O_L_C_0.PaperSprite L) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:975][200]PIE: Warning: Invalid Simulate Options: Body (O_L_C_0.PaperSprite L) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:975][200]PIE: Warning: Invalid Simulate Options: Body (O_L_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.41:975][200]PIE: Warning: Invalid Simulate Options: Body (O_L_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_N_C_0.PaperSprite N) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_N_C_0.PaperSprite N) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_N_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_N_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_B_C_0.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_B_C_0.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_B_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_B_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_Y_C_0.PaperSprite Y) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_Y_C_0.PaperSprite Y) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_Y_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_Y_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_O_C_0.PaperSprite O) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_O_C_0.PaperSprite O) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_O_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_O_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_Q_C_0.PaperSprite Q) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_Q_C_0.PaperSprite Q) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:839][ 27]PIE: Warning: Invalid Simulate Options: Body (O_Q_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:840][ 27]PIE: Warning: Invalid Simulate Options: Body (O_Q_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:840][ 27]PIE: Warning: Invalid Simulate Options: Body (O_U_C_0.PaperSprite U) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:840][ 27]PIE: Warning: Invalid Simulate Options: Body (O_U_C_0.PaperSprite U) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:840][ 27]PIE: Warning: Invalid Simulate Options: Body (O_U_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.43:840][ 27]PIE: Warning: Invalid Simulate Options: Body (O_U_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:704][574]PIE: Warning: O_U_C_0.PaperSprite U has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.45:714][592]PIE: Warning: O_U_C_0.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.45:784][718]PIE: Warning: Invalid Simulate Options: Body (O_E_C_0.PaperSprite E) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:784][718]PIE: Warning: Invalid Simulate Options: Body (O_E_C_0.PaperSprite E) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:784][718]PIE: Warning: Invalid Simulate Options: Body (O_E_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:784][718]PIE: Warning: Invalid Simulate Options: Body (O_E_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:784][718]PIE: Warning: Invalid Simulate Options: Body (O_R_C_0.PaperSprite R) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:784][718]PIE: Warning: Invalid Simulate Options: Body (O_R_C_0.PaperSprite R) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_R_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_R_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_V_C_0.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_V_C_0.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_V_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_V_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_E_C_1.PaperSprite E) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_E_C_1.PaperSprite E) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_E_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_E_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_V_C_1.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_V_C_1.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_V_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_V_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_G_C_0.PaperSprite G) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_G_C_0.PaperSprite G) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_G_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.45:785][718]PIE: Warning: Invalid Simulate Options: Body (O_G_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_V_C_2.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_V_C_2.PaperSprite V) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_V_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_V_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_M_C_1.PaperSprite M) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_M_C_1.PaperSprite M) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_M_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_M_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_J_C_0.PaperSprite J) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_J_C_0.PaperSprite J) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_J_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_J_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_I_C_0.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_I_C_0.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_I_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:780][184]PIE: Warning: Invalid Simulate Options: Body (O_I_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:781][184]PIE: Warning: Invalid Simulate Options: Body (O_E_C_2.PaperSprite E) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:781][184]PIE: Warning: Invalid Simulate Options: Body (O_E_C_2.PaperSprite E) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:781][184]PIE: Warning: Invalid Simulate Options: Body (O_E_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:781][184]PIE: Warning: Invalid Simulate Options: Body (O_E_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:781][184]PIE: Warning: Invalid Simulate Options: Body (O_Q_C_1.PaperSprite Q) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:781][184]PIE: Warning: Invalid Simulate Options: Body (O_Q_C_1.PaperSprite Q) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:781][184]PIE: Warning: Invalid Simulate Options: Body (O_Q_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.47:781][184]PIE: Warning: Invalid Simulate Options: Body (O_Q_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:775][610]PIE: Warning: Invalid Simulate Options: Body (O_B_C_1.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_B_C_1.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_B_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_B_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_B_C_2.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_B_C_2.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_B_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_B_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_J_C_1.PaperSprite J) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_J_C_1.PaperSprite J) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_J_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_J_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_Q_C_2.PaperSprite Q) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_Q_C_2.PaperSprite Q) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_Q_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_Q_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_L_C_1.PaperSprite L) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_L_C_1.PaperSprite L) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_L_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:776][610]PIE: Warning: Invalid Simulate Options: Body (O_L_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:777][610]PIE: Warning: Invalid Simulate Options: Body (O_C_C_0.PaperSprite C) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:777][610]PIE: Warning: Invalid Simulate Options: Body (O_C_C_0.PaperSprite C) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:777][610]PIE: Warning: Invalid Simulate Options: Body (O_C_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.49:777][610]PIE: Warning: Invalid Simulate Options: Body (O_C_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:775][930]PIE: Warning: Invalid Simulate Options: Body (O_D_C_1.PaperSprite D) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:775][930]PIE: Warning: Invalid Simulate Options: Body (O_D_C_1.PaperSprite D) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:775][930]PIE: Warning: Invalid Simulate Options: Body (O_D_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:775][930]PIE: Warning: Invalid Simulate Options: Body (O_D_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:775][930]PIE: Warning: Invalid Simulate Options: Body (O_K_C_0.PaperSprite K) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:775][930]PIE: Warning: Invalid Simulate Options: Body (O_K_C_0.PaperSprite K) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:775][930]PIE: Warning: Invalid Simulate Options: Body (O_K_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:775][930]PIE: Warning: Invalid Simulate Options: Body (O_K_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_C_C_1.PaperSprite C) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_C_C_1.PaperSprite C) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_C_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_C_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_G_C_1.PaperSprite G) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_G_C_1.PaperSprite G) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_G_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_G_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_O_C_1.PaperSprite O) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_O_C_1.PaperSprite O) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_O_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_O_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_J_C_2.PaperSprite J) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_J_C_2.PaperSprite J) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_J_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.51:776][930]PIE: Warning: Invalid Simulate Options: Body (O_J_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:178][196]PIE: Warning: O_C_C_1.PaperSprite C has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.53:184][205]PIE: Warning: O_C_C_1.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_R_C_1.PaperSprite R) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_R_C_1.PaperSprite R) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_R_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_R_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_D_C_2.PaperSprite D) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_D_C_2.PaperSprite D) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_D_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_D_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_B_C_3.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_B_C_3.PaperSprite B) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_B_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_B_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_E_C_3.PaperSprite E) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_E_C_3.PaperSprite E) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_E_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_E_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_I_C_1.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_I_C_1.PaperSprite I) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_I_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:775][160]PIE: Warning: Invalid Simulate Options: Body (O_I_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:776][160]PIE: Warning: Invalid Simulate Options: Body (O_L_C_2.PaperSprite L) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:776][160]PIE: Warning: Invalid Simulate Options: Body (O_L_C_2.PaperSprite L) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:776][160]PIE: Warning: Invalid Simulate Options: Body (O_L_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.53:776][160]PIE: Warning: Invalid Simulate Options: Body (O_L_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.55:043][158]PIE: Warning: O_L_C_2.PaperSprite L has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.55:048][166]PIE: Warning: O_L_C_2.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2022.12.05-10.23.55:392][687]LogBlueprintUserMessages: [Portal] Level2
+[2022.12.05-10.23.55:435][687]LogPackageName: SearchForPackageOnDisk took   0.043s to resolve Level3.umap.
+[2022.12.05-10.23.55:480][688]LogPackageName: SearchForPackageOnDisk took   0.043s to resolve Level3.umap.
+[2022.12.05-10.23.55:480][688]LogNet: Browse: /Game/Levels/Level3
+[2022.12.05-10.23.55:480][688]LogLoad: LoadMap: /Game/Levels/Level3
+[2022.12.05-10.23.55:480][688]LogWorld: BeginTearingDown for /Game/Levels/Level2
+[2022.12.05-10.23.55:481][688]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-10.23.55:481][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-10.23.55:522][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-10.23.55:528][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.12.05-10.23.55:639][688]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2022.12.05-10.23.55:640][688]LogAIModule: Creating AISystem for world Level3
+[2022.12.05-10.23.55:640][688]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.12.05-10.23.55:642][688]LogWorld: Bringing World /Game/Levels/Level3.Level3 up for play (max tick rate 0) at 2022.12.05-15.23.55
+[2022.12.05-10.23.55:642][688]LogWorld: Bringing up level for play took: 0.001193
+[2022.12.05-10.23.55:643][688]LogScript: Warning: UGameplayStatics::SpawnObject null outer
+[2022.12.05-10.23.55:643][688]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnObject_ReturnValue
+	2DSideScrollerGameMode_C /Game/Levels/Level3.Level3:PersistentLevel.2DSideScrollerGameMode_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode:004C
+[2022.12.05-10.23.55:643][688]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ReceiveBeginPlay
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode
+
+[2022.12.05-10.23.55:643][688]LogScript: Warning: UGameplayStatics::SpawnObject null outer
+[2022.12.05-10.23.55:643][688]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnObject_ReturnValue
+	2DSideScrollerCharacter_C /Game/Levels/Level3.Level3:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0095
+[2022.12.05-10.23.55:643][688]LogScript: Warning: Script call stack:
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveBeginPlay
+	Function /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+
+[2022.12.05-10.23.55:643][688]LogLoad: Took 0.164083 seconds to LoadMap(/Game/Levels/Level3)
+[2022.12.05-10.23.57:318][721]PIE: Warning: Invalid Simulate Options: Body (O_C_C_0.PaperSprite C) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:318][721]PIE: Warning: Invalid Simulate Options: Body (O_C_C_0.PaperSprite C) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_C_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_C_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_S_C_0.PaperSprite S) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_S_C_0.PaperSprite S) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_S_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_S_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_F_C_0.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_F_C_0.PaperSprite F) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_F_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_F_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_U_C_0.PaperSprite U) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_U_C_0.PaperSprite U) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_U_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_U_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_A_C_0.PaperSprite) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_A_C_0.PaperSprite) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_A_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:319][721]PIE: Warning: Invalid Simulate Options: Body (O_A_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:320][721]PIE: Warning: Invalid Simulate Options: Body (O_S_C_1.PaperSprite S) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:320][721]PIE: Warning: Invalid Simulate Options: Body (O_S_C_1.PaperSprite S) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:320][721]PIE: Warning: Invalid Simulate Options: Body (O_S_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.57:320][721]PIE: Warning: Invalid Simulate Options: Body (O_S_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2022.12.05-10.23.59:596][123]Closing by request
+[2022.12.05-10.23.59:596][123]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.12.05-10.23.59:596][123]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.12.05-10.23.59:596][123]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.12.05-10.23.59:597][124]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.05-10.23.59:597][124]LogInit: Display: PreExit Game.
+[2022.12.05-10.23.59:601][124]LogWorld: BeginTearingDown for /Game/Levels/Level3
+[2022.12.05-10.23.59:602][124]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-10.23.59:602][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-10.24.00:500][124]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.05-10.24.00:500][124]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.05-10.24.00:500][124]LogAudio: Display: Audio Device unregistered from world 'Level3'.
+[2022.12.05-10.24.00:525][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-10.24.00:529][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-10.24.00:540][124]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.05-10.24.00:556][124]LogSlate: Window 'SpellTowerv1 (64-bit Development PCD3D_ES31) ' being destroyed
+[2022.12.05-10.24.00:558][124]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.05-10.24.00:573][124]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.05-10.24.00:608][124]LogExit: Preparing to exit.
+[2022.12.05-10.24.01:308][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.12.05-10.24.01:350][124]LogMoviePlayer: Shutting down movie player
+[2022.12.05-10.24.01:467][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-10.24.01:481][124]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.12.05-10.24.01:487][124]LogExit: Game engine shut down
+[2022.12.05-10.24.01:527][124]LogExit: Object subsystem successfully closed.
+[2022.12.05-10.24.01:552][124]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.05-10.24.01:552][124]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.12.05-10.24.01:552][124]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.12.05-10.24.01:552][124]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.12.05-10.24.01:552][124]LogShaderCompilers: Display: ================================================
+[2022.12.05-10.24.01:561][124]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.12.05-10.24.01:599][124]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (560)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module SequenceRecorder (558)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module AutomationController (556)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module AutomationWorker (554)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module Voice (552)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module AIModule (550)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module GameplayDebugger (549)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module AITestSuite (547)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module NavigationSystem (545)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module SteamVREditor (542)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module ToolMenus (541)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module OculusMR (538)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (536)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module TakeRecorder (535)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (532)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module TakesCore (530)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module OpenXRInput (528)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (526)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module WebMMedia (524)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (522)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (520)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (518)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (516)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (514)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (512)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module PlanarCut (510)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module CharacterAI (508)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module SessionServices (506)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (504)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module LiveCoding (502)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module LevelSequence (500)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (498)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module MovieScene (496)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (494)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module PortalServices (492)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module PortalRpc (490)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module MessagingRpc (488)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (486)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module AudioMixerCore (485)
+[2022.12.05-10.24.01:600][124]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (482)
+[2022.12.05-10.24.01:603][124]LogModuleManager: Shutting down and abandoning module ProfilerService (480)
+[2022.12.05-10.24.01:763][124]LogModuleManager: Shutting down and abandoning module TaskGraph (478)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module OculusInput (476)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module Synthesis (474)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (472)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module TakeMovieScene (470)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (468)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module GooglePAD (466)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module EditableMesh (464)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (462)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module CableComponent (460)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module AudioCapture (458)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (457)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module AssetTags (454)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (452)
+[2022.12.05-10.24.01:764][124]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (450)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module AppleImageUtils (448)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module AndroidPermission (446)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (444)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module TemplateSequence (442)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module MediaCompositing (440)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module ImgMedia (438)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (436)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (434)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (432)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (430)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (428)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (426)
+[2022.12.05-10.24.01:765][124]LogOpenImageDenoise: OIDN shutting down
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module MotoSynth (424)
+[2022.12.05-10.24.01:765][124]LogModuleManager: Shutting down and abandoning module MeshConversion (422)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module DynamicMesh (420)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (418)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module GeometricObjects (416)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (414)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (413)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (410)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (409)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module GeometryCache (406)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (405)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module ChaosNiagara (402)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (401)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module AutomationUtils (398)
+[2022.12.05-10.24.01:766][124]LogModuleManager: Shutting down and abandoning module BackChannel (396)
+[2022.12.05-10.24.01:767][124]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (394)
+[2022.12.05-10.24.01:767][124]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (392)
+[2022.12.05-10.24.01:767][124]LogModuleManager: Shutting down and abandoning module HotReload (391)
+[2022.12.05-10.24.01:767][124]LogModuleManager: Shutting down and abandoning module UObjectPlugin (388)
+[2022.12.05-10.24.01:768][124]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (386)
+[2022.12.05-10.24.01:768][124]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (384)
+[2022.12.05-10.24.01:768][124]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (382)
+[2022.12.05-10.24.01:768][124]LogModuleManager: Shutting down and abandoning module SourceControl (381)
+[2022.12.05-10.24.01:768][124]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (378)
+[2022.12.05-10.24.01:768][124]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (376)
+[2022.12.05-10.24.01:768][124]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (374)
+[2022.12.05-10.24.01:768][124]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (372)
+[2022.12.05-10.24.01:768][124]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (370)
+[2022.12.05-10.24.01:768][124]LogModuleManager: Shutting down and abandoning module LiveLink (368)
+[2022.12.05-10.24.02:326][124]LogModuleManager: Shutting down and abandoning module SpellTowerv1 (366)
+[2022.12.05-10.24.02:327][124]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2022.12.05-10.24.02:327][124]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2022.12.05-10.24.02:327][124]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2022.12.05-10.24.02:327][124]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (358)
+[2022.12.05-10.24.02:327][124]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (356)
+[2022.12.05-10.24.02:327][124]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (352)
+[2022.12.05-10.24.02:327][124]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (350)
+[2022.12.05-10.24.02:327][124]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (348)
+[2022.12.05-10.24.02:327][124]LogModuleManager: Shutting down and abandoning module ActorSequence (346)
+[2022.12.05-10.24.02:327][124]LogModuleManager: Shutting down and abandoning module UdpMessaging (344)
+[2022.12.05-10.24.02:428][124]LogModuleManager: Shutting down and abandoning module TcpMessaging (342)
+[2022.12.05-10.24.02:529][124]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (340)
+[2022.12.05-10.24.02:529][124]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (338)
+[2022.12.05-10.24.02:529][124]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (336)
+[2022.12.05-10.24.02:529][124]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (334)
+[2022.12.05-10.24.02:529][124]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (332)
+[2022.12.05-10.24.02:529][124]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (330)
+[2022.12.05-10.24.02:529][124]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (328)
+[2022.12.05-10.24.02:529][124]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.12.05-10.24.02:529][124]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (326)
+[2022.12.05-10.24.02:530][124]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (324)
+[2022.12.05-10.24.02:530][124]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (322)
+[2022.12.05-10.24.02:530][124]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (320)
+[2022.12.05-10.24.02:530][124]LogModuleManager: Shutting down and abandoning module MagicLeapController (318)
+[2022.12.05-10.24.02:530][124]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (316)
+[2022.12.05-10.24.02:530][124]LogModuleManager: Shutting down and abandoning module MagicLeapAR (314)
+[2022.12.05-10.24.02:530][124]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (312)
+[2022.12.05-10.24.02:530][124]LogModuleManager: Shutting down and abandoning module FacialAnimation (310)
+[2022.12.05-10.24.02:530][124]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (308)
+[2022.12.05-10.24.02:530][124]LogModuleManager: Shutting down and abandoning module TreeMap (307)
+[2022.12.05-10.24.02:530][124]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (304)
+[2022.12.05-10.24.02:530][124]LogModuleManager: Shutting down and abandoning module Niagara (302)
+[2022.12.05-10.24.02:531][124]LogModuleManager: Shutting down and abandoning module SignalProcessing (301)
+[2022.12.05-10.24.02:531][124]LogModuleManager: Shutting down and abandoning module NiagaraEditor (299)
+[2022.12.05-10.24.02:532][124]LogModuleManager: Shutting down and abandoning module ContentBrowser (298)
+[2022.12.05-10.24.02:532][124]LogModuleManager: Shutting down and abandoning module CollectionManager (297)
+[2022.12.05-10.24.02:533][124]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (296)
+[2022.12.05-10.24.02:533][124]LogModuleManager: Shutting down and abandoning module ContentBrowserData (293)
+[2022.12.05-10.24.02:533][124]LogModuleManager: Shutting down and abandoning module NiagaraCore (288)
+[2022.12.05-10.24.02:533][124]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (286)
+[2022.12.05-10.24.02:533][124]LogModuleManager: Shutting down and abandoning module GameplayCameras (284)
+[2022.12.05-10.24.02:534][124]LogModuleManager: Shutting down and abandoning module AnimationSharing (282)
+[2022.12.05-10.24.02:534][124]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (280)
+[2022.12.05-10.24.02:534][124]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (278)
+[2022.12.05-10.24.02:534][124]LogModuleManager: Shutting down and abandoning module Paper2D (276)
+[2022.12.05-10.24.02:534][124]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (274)
+[2022.12.05-10.24.02:535][124]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (272)
+[2022.12.05-10.24.02:535][124]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (270)
+[2022.12.05-10.24.02:535][124]LogModuleManager: Shutting down and abandoning module PacketHandler (268)
+[2022.12.05-10.24.02:535][124]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (266)
+[2022.12.05-10.24.02:535][124]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (264)
+[2022.12.05-10.24.02:536][124]LogModuleManager: Shutting down and abandoning module MediaAssets (262)
+[2022.12.05-10.24.02:536][124]LogModuleManager: Shutting down and abandoning module Overlay (260)
+[2022.12.05-10.24.02:536][124]LogModuleManager: Shutting down and abandoning module OverlayEditor (259)
+[2022.12.05-10.24.02:536][124]LogModuleManager: Shutting down and abandoning module VREditor (256)
+[2022.12.05-10.24.02:536][124]LogModuleManager: Shutting down and abandoning module StringTableEditor (254)
+[2022.12.05-10.24.02:536][124]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (252)
+[2022.12.05-10.24.02:536][124]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (250)
+[2022.12.05-10.24.02:536][124]LogModuleManager: Shutting down and abandoning module FunctionalTesting (248)
+[2022.12.05-10.24.02:536][124]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (246)
+[2022.12.05-10.24.02:536][124]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (245)
+[2022.12.05-10.24.02:536][124]LogModuleManager: Shutting down and abandoning module UMG (242)
+[2022.12.05-10.24.02:536][124]LogModuleManager: Shutting down and abandoning module UMGEditor (241)
+[2022.12.05-10.24.02:537][124]LogModuleManager: Shutting down and abandoning module Sequencer (240)
+[2022.12.05-10.24.02:537][124]LogModuleManager: Shutting down and abandoning module MessageLog (237)
+[2022.12.05-10.24.02:538][124]LogModuleManager: Shutting down and abandoning module SlateReflector (232)
+[2022.12.05-10.24.02:539][124]LogModuleManager: Shutting down and abandoning module Slate (230)
+[2022.12.05-10.24.02:539][124]LogModuleManager: Shutting down and abandoning module SlateCore (228)
+[2022.12.05-10.24.02:545][124]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (226)
+[2022.12.05-10.24.02:545][124]LogModuleManager: Shutting down and abandoning module UnrealEd (224)
+[2022.12.05-10.24.02:546][124]LogModuleManager: Shutting down and abandoning module MRMesh (222)
+[2022.12.05-10.24.02:546][124]LogModuleManager: Shutting down and abandoning module Messaging (220)
+[2022.12.05-10.24.02:546][124]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (218)
+[2022.12.05-10.24.02:546][124]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (216)
+[2022.12.05-10.24.02:546][124]LogModuleManager: Shutting down and abandoning module XAudio2 (214)
+[2022.12.05-10.24.02:546][124]LogModuleManager: Shutting down and abandoning module Networking (212)
+[2022.12.05-10.24.02:546][124]LogModuleManager: Shutting down and abandoning module Core (210)
+[2022.12.05-10.24.02:546][124]LogModuleManager: Shutting down and abandoning module MaterialEditor (208)
+[2022.12.05-10.24.02:546][124]LogModuleManager: Shutting down and abandoning module MovieSceneTools (206)
+[2022.12.05-10.24.02:546][124]LogModuleManager: Shutting down and abandoning module EditorStyle (205)
+[2022.12.05-10.24.02:550][124]LogModuleManager: Shutting down and abandoning module KismetCompiler (202)
+[2022.12.05-10.24.02:550][124]LogModuleManager: Shutting down and abandoning module MeshBuilder (200)
+[2022.12.05-10.24.02:550][124]LogModuleManager: Shutting down and abandoning module MeshUtilities (198)
+[2022.12.05-10.24.02:550][124]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (197)
+[2022.12.05-10.24.02:550][124]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (196)
+[2022.12.05-10.24.02:550][124]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (195)
+[2022.12.05-10.24.02:550][124]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (193)
+[2022.12.05-10.24.02:550][124]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (191)
+[2022.12.05-10.24.02:551][124]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (189)
+[2022.12.05-10.24.02:551][124]LogModuleManager: Shutting down and abandoning module MaterialBaking (185)
+[2022.12.05-10.24.02:551][124]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (180)
+[2022.12.05-10.24.02:551][124]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (178)
+[2022.12.05-10.24.02:551][124]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
+[2022.12.05-10.24.02:551][124]LogModuleManager: Shutting down and abandoning module TargetPlatform (174)
+[2022.12.05-10.24.02:551][124]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (173)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (171)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (169)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (167)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (165)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (163)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (161)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (159)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (157)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2022.12.05-10.24.02:552][124]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (141)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (139)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (137)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (135)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module D3D11RHI (132)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.12.05-10.24.02:553][124]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.12.05-10.24.02:554][124]LogHMD: Freeing OpenVRDLLHandle.
+[2022.12.05-10.24.02:554][124]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.12.05-10.24.02:554][124]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.12.05-10.24.02:554][124]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.05-10.24.02:554][124]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.12.05-10.24.02:554][124]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.12.05-10.24.02:554][124]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.12.05-10.24.02:554][124]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.12.05-10.24.02:554][124]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.12.05-10.24.02:554][124]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.12.05-10.24.02:555][124]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.12.05-10.24.02:555][124]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.12.05-10.24.02:555][124]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.12.05-10.24.02:558][124]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.12.05-10.24.02:558][124]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.12.05-10.24.02:588][124]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.12.05-10.24.02:588][124]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.12.05-10.24.02:602][124]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.12.05-10.24.02:606][124]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.12.05-10.24.02:612][124]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.12.05-10.24.02:614][124]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.12.05-10.24.02:615][124]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.12.05-10.24.02:615][124]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.12.05-10.24.02:615][124]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.12.05-10.24.02:615][124]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2022.12.05-10.24.02:615][124]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.12.05-10.24.02:615][124]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.12.05-10.24.02:615][124]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.12.05-10.24.02:615][124]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.12.05-10.24.02:616][124]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.12.05-10.24.02:616][124]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.12.05-10.24.02:616][124]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.12.05-10.24.02:616][124]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.12.05-10.24.02:617][124]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.12.05-10.24.02:617][124]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.12.05-10.24.02:617][124]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.12.05-10.24.02:617][124]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.12.05-10.24.02:617][124]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.12.05-10.24.02:617][124]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.12.05-10.24.02:617][124]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.12.05-10.24.02:618][124]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.12.05-10.24.02:618][124]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.12.05-10.24.02:618][124]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.12.05-10.24.02:618][124]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.12.05-10.24.02:618][124]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.12.05-10.24.02:619][124]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.12.05-10.24.02:619][124]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.12.05-10.24.02:620][124]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.12.05-10.24.02:620][124]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.12.05-10.24.02:620][124]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.12.05-10.24.02:620][124]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.12.05-10.24.02:620][124]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.12.05-10.24.02:620][124]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.12.05-10.24.02:620][124]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.12.05-10.24.02:620][124]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.12.05-10.24.03:109][124]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.12.05-10.24.03:177][124]LogD3D11RHI: Shutdown
+[2022.12.05-10.24.03:177][124]LogD3D11RHI: CleanupD3DDevice
+[2022.12.05-10.24.03:181][124]LogExit: Exiting.
+[2022.12.05-10.24.03:226][124]Log file closed, 12/05/22 15:24:03
