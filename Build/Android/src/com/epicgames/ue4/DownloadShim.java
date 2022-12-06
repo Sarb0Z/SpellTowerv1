@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.SDA.SpellTowerv1.OBBDownloaderService;
-import com.SDA.SpellTowerv1.DownloaderActivity;
+import com.SDA.SpellTower.OBBDownloaderService;
+import com.SDA.SpellTower.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.SDA.SpellTowerv1.OBBData;
+import com.SDA.SpellTower.OBBData;
 
 
 public class DownloadShim
