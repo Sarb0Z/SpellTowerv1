@@ -26,7 +26,7 @@ UDictionary::UDictionary()
 	dictionary.push_back("happiness");
 	//alphabet
 	char letter = 'a';
-	
+
 	for (int i = 0; i < 26; i++) {
 		alphabet[i] = letter;
 		letter++;
