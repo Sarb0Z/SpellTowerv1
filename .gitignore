@@ -1,8 +1,7 @@
-#Binaries
-Android/
+Binaries
 DerivedDataCache
 Intermediate
-#Saved
+Saved
 .vscode
 .vs
 *.VC.db

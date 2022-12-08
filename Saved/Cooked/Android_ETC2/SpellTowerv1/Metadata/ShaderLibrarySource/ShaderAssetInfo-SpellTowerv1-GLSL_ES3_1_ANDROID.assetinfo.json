@@ -88,12 +88,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5AC54DEE41BCE0A0995ADB66753FDE2522715A05",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
 			"ShaderMapHash": "1D51568A8C1D3C14B681D188444A9F81BDF5BAD3",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
@@ -103,6 +97,12 @@
 			"ShaderMapHash": "CEB52D6E2266F1439F8687DF6DFF8EBBE3A3E42F",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "5AC54DEE41BCE0A0995ADB66753FDE2522715A05",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
