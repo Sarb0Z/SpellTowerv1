@@ -1,1 +1,0 @@
-../../../SpellTowerv1/SpellTowerv1.uproject 
